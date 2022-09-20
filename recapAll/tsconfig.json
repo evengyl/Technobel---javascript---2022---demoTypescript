@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "strict": false,
+        "experimentalDecorators": true,
+        "typeRoots": ["./node_modules/@types"]
+    }
+}
